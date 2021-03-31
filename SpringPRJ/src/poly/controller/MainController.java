@@ -10,11 +10,20 @@ public class MainController {
 	
 	private Logger log = Logger.getLogger(this.getClass());
 	
-	@RequestMapping(value="index")
+	@RequestMapping(value = "index")
 	public String Index() {
 		log.info(this.getClass());
 		
 		return "/index";
+	}
+	
+	@RequestMapping(value = "kakao")
+	public String api_test() {
+		
+		log.info(this.getClass());
+		log.info("카카오 API 테스트 시작");
+		
+		return "/kakao";
 	}
 			
 }
