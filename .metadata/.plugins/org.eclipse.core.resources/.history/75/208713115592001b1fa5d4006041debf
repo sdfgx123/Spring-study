@@ -49,7 +49,7 @@ public class MainController {
 		
 		log.info(bookName);
 		
-		return "/searchResult2";
+		return "/searchResult";
 	}
 			
 }

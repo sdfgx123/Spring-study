@@ -59,7 +59,7 @@
 			method : "GET",
 			url : "https://dapi.kakao.com/v3/search/book?target=title",
 			data : {
-				query : "name"
+				query : "미움받을 용기"
 			},
 			headers : {
 				Authorization : "KakaoAK d6ed1d1cbb3e2caa8769e2c3e233acca"
