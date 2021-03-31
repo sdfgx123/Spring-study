@@ -114,12 +114,16 @@
 			<version>1.4</version>
 		</dependency>
 
+		
 		<!-- Oracle -->
 		<dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc6</artifactId>
 			<version>12.1.0.1</version>
 		</dependency>
+		
+	
+		
 		
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
