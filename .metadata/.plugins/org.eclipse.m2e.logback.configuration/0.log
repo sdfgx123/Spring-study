@@ -875,3 +875,43 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-04-01 15:40:36,645 [Worker-61: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-04-01 15:40:36,646 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
 2021-04-01 15:40:36,647 [Worker-61: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:40:36,648 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:45:37,826 [Worker-69: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:45:37,827 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:45:37,827 [Worker-69: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:45:37,828 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:47:02,352 [Worker-61: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:47:02,354 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:47:02,354 [Worker-61: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:47:02,355 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:52:51,939 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:52:51,940 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:52:51,941 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:52:51,942 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:55:10,450 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:55:10,451 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:55:10,452 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:55:10,453 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:55:39,426 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:55:39,428 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:55:39,428 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:55:39,429 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:56:21,211 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:56:21,212 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:56:21,213 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:56:21,214 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 15:58:14,214 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:58:14,215 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 15:58:14,216 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 15:58:14,217 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 16:01:45,088 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 16:01:45,089 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 16:01:45,090 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 16:01:45,091 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 16:03:27,434 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 16:03:27,435 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 16:03:27,435 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 16:03:27,436 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\test\resources
+2021-04-01 16:10:00,336 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-01 16:10:00,337 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring-study\SpringPRJ\src\main\resources
+2021-04-01 16:10:00,338 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -31,4 +31,17 @@ public class MyRedisController {
 		
 		return "success";
 	}
+	
+	@RequestMapping(value = "myRedis/test02")
+	@ResponseBody
+	public String test02(HttpServletRequest request, HttpServletResponse response) throws Exception {
+		
+		log.info(this.getClass().getName() + ".test02 start");
+		
+		myRedisService.doSaveDataforList();
+		
+		log.info(this.getClass().getName() + ".test02 end");
+		
+		return "success";
+	}
 }

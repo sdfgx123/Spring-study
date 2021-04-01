@@ -25,6 +25,16 @@ public class MyRedisService implements IMyRedisService {
 		
 		log.info(this.getClass().getName() + ".doSaveData end");
 	}
+
+	@Override
+	public void doSaveDataforList() throws Exception {
+		
+		log.info(this.getClass().getName() + ".doSaveDataforList start");
+		
+		myRedisMapper.doSaveDataforList();
+		
+		log.info(this.getClass().getName() + ".doSaveDataforList end");
+	}
 	
 	
 }
